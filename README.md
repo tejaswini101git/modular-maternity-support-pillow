@@ -64,6 +64,8 @@ The modular structure allows users to configure the system depending on:
 • Postnatal recovery needs
 
 This flexibility distinguishes the design from traditional fixed maternity pillows.
+
+
 ---
 
 ## Key Features
