@@ -74,6 +74,18 @@ The workflow includes the following steps:
 
 ---
 
+## Technical Specifications
+
+| Component | Primary Function |
+|----------|------------------|
+| U-Shaped Pillow | Supports head, neck, and upper body |
+| Side Body Pillow | Provides abdominal and lumbar support |
+| Leg Support Segment | Maintains hip and knee alignment |
+| Wedge Pillow | Provides targeted abdominal support |
+| Thermal Therapy Pockets | Allows hot/cold gel packs for pain relief |
+
+---
+
 ## System Components
 
 ### 1. U-Shaped Pillow
