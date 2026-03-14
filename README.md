@@ -65,7 +65,21 @@ The modular structure allows users to configure the system depending on:
 
 This flexibility distinguishes the design from traditional fixed maternity pillows.
 
+---
 
+## Usage Workflow
+
+The modular maternity support pillow system can be configured depending on user comfort needs and posture requirements.
+
+![System Workflow](images/workflow_diagram.jpg)
+
+The workflow includes the following steps:
+
+1. User selects pillow configuration based on support needs
+2. Optional hot/cold gel packs are inserted into thermal pockets
+3. User lies down or sits using the assembled pillow configuration
+4. Ergonomic support and thermal therapy provide comfort and pain relief
+5. Pillow components can be adjusted or detached after use
 ---
 
 ## Key Features
