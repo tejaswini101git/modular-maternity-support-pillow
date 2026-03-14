@@ -16,6 +16,20 @@ This project proposes a **Multi-Functional Modular Maternity Support Pillow Syst
 Additionally, the system incorporates **integrated hot and cold therapy pockets** that accommodate reusable gel packs, providing localized thermal relief for muscle tension, lower back pain, and abdominal discomfort.
 
 ---
+## Physical Prototype
+
+A scaled prototype of the modular maternity support pillow was constructed using cardboard and structural supports to validate the modular configuration and ergonomic layout.
+
+The prototype demonstrates the adjustable multi-pillow architecture including:
+
+• U-shaped primary support pillow  
+• Wedge pillow for abdominal support  
+• Leg/knee support pillow  
+• Modular extension support segment  
+
+These components are designed to be repositioned depending on sleeping posture and trimester stage.
+
+![Prototype Model](images/prototype_model.jpg)
 
 ## Key Features
 
