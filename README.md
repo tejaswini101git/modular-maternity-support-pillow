@@ -1,6 +1,6 @@
 
 # Modular Maternity Support Pillow
-![Modular Maternity Support Pillow Design](images/pillow_design_sketch.png)
+![Modular Maternity Support Pillow Design](images/pillow_design_sketch.png.jpg)
 A patent-backed ergonomic maternity support system designed to improve comfort during pregnancy and provide adaptable support during postnatal recovery.
 
 ---
