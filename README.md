@@ -1,6 +1,6 @@
 
 # Modular Maternity Support Pillow
-
+![Modular Maternity Support Pillow Design](images/pillow_design_sketch.png)
 A patent-backed ergonomic maternity support system designed to improve comfort during pregnancy and provide adaptable support during postnatal recovery.
 
 ---
@@ -57,9 +57,10 @@ Patent documentation is available in the **patent folder**.
 
 Geethanjali College of Engineering and Technology
 
+  
+Mandal Tejaswini 
 P. Ushashree  
-Sreeja Chilamakuru  
-Mandal Tejaswini  
+Sreeja Chilamakuru
 Chatla Shrija  
 B. Shivamurthi  
 D. Reethika  
