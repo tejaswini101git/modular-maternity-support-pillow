@@ -30,6 +30,39 @@ The prototype demonstrates the adjustable multi-pillow architecture including:
 These components are designed to be repositioned depending on sleeping posture and trimester stage.
 
 ![Prototype Model](images/prototype_model.jpg)
+## System Architecture
+
+The modular maternity support system is composed of four primary ergonomic components that can be arranged to support different body regions during pregnancy and postnatal recovery.
+
+### Core Components
+
+1. **U-Shaped Main Pillow**
+   
+   Provides full-body support along the back and abdomen.  
+   Designed to stabilize the spine and maintain side-sleeping posture.
+
+2. **Wedge Pillow**
+
+   A compact support module positioned under the abdomen to reduce pressure on the lower back and pelvic region.
+
+3. **Leg / Knee Support Pillow**
+
+   Placed between the knees to maintain hip alignment and reduce strain on the lower spine.
+
+4. **Modular Extension Pillow**
+
+   Additional support segment that can be attached or repositioned to support hips, legs, or back depending on user comfort.
+
+### Adjustable Configuration
+
+The modular structure allows users to configure the system depending on:
+
+• Sleeping posture  
+• Trimester stage  
+• Body support requirements  
+• Postnatal recovery needs
+
+This flexibility distinguishes the design from traditional fixed maternity pillows.
 
 ## Key Features
 
