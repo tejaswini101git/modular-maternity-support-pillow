@@ -98,10 +98,10 @@ Future development of this project will focus on:
 ## Contributors
 
 Geethanjali College of Engineering and Technology
- 
-Mandal Tejaswini 
-P. Ushashree  
-Sreeja Chilamakuru 
+
+Mandal Tejaswini  
+P. U. Shashree  
+Sreeja Chilamakuru  
 Chatla Shrija  
 B. Shivamurthi  
 D. Reethika  
