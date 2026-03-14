@@ -156,7 +156,7 @@ Future development of this project will focus on:
 Geethanjali College of Engineering and Technology
 
 Mandal Tejaswini  
-P. U. Shashree  
+P. Ushashree  
 Sreeja Chilamakuru  
 Chatla Shrija  
 B. Shivamurthi  
