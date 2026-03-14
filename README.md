@@ -106,6 +106,8 @@ An angled wedge cushion that provides localized abdominal support or back suppor
 ### 5. Thermal Therapy Pockets
 Integrated pockets located within the wedge and lumbar support sections allow the insertion of reusable hot or cold gel packs. This feature enables targeted thermotherapy for relieving inflammation, muscle stiffness, and pregnancy-related discomfort.
 
+![Component Diagram](images/component_diagram.png)
+
 ---
 
 ## Design Philosophy
