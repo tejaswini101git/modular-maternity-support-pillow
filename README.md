@@ -153,7 +153,7 @@ Indian Patent Office
 Current Status:  
 Patent Published – Awaiting Request for Examination
 
-patent/patent publication.jpg
+
 
 ---
 
