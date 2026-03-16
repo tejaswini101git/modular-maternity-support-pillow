@@ -1,8 +1,9 @@
 
 # Modular Maternity Support Pillow
-![Patent](https://img.shields.io/badge/Patent-Pending-blue)
-![Status](https://img.shields.io/badge/Project-Research%20Prototype-green)
-![License](https://img.shields.io/badge/License-Apache%202.0-orange)
+![Patent Published](https://img.shields.io/badge/Patent-Published%20(India)-brightgreen)
+![Innovation](https://img.shields.io/badge/Innovation-Modular%20Ergonomic%20System-blue)
+![Research Prototype](https://img.shields.io/badge/Prototype-Functional-orange)
+![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey)
 
 ![Modular Maternity Support Pillow Design](images/pillow_design_sketch.png.jpg)
 
