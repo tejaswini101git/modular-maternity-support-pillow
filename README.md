@@ -139,10 +139,21 @@ research/ → Invention disclosure materials and research documentation
 ## Patent Information
 
 Patent Title:  
-**Multi-Functional Maternity Support Pillow with Detachable Ergonomic Components**
+Multi-Functional Maternity Support Pillow with Detachable Ergonomic Components
 
-Application Status:  
-Patent documentation and supporting materials are available in the **patent/** directory of this repository.
+Application Number:  
+202541076593
+
+Publication Date:  
+22 August 2025
+
+Jurisdiction:  
+Indian Patent Office
+
+Current Status:  
+Patent Published – Awaiting Request for Examination
+
+patent/patent_publication_status.png
 
 ---
 
